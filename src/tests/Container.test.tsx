@@ -1,5 +1,4 @@
-import React from "react";
-import {createSummary} from "./Container";
+import {createSummary} from "../components/Container";
 
 
 const summaryData = {

@@ -2,7 +2,7 @@ import React from "react";
 import { render, unmountComponentAtNode } from "react-dom";
 import { act } from "react-dom/test-utils";
 
-import {Card} from "./Card";
+import {Card} from "../components/Card";
 
 let container:any = null;
 beforeEach(() => {
